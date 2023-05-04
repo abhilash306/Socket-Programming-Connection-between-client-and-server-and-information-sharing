@@ -36,3 +36,9 @@ In this assignment, separate menu are created for instructor and students and th
 menu are displayed accordingly when a student or instructor login. The username 
 and password are pre stored in a text file named user_pass.txt and students’ 
 marks are stored in student_marks.csv. 
+
+Wireshark Analysis 
+ Wireshark is used to capture different types of network hardware such as 
+Ethernet and shows the traffic flow. 
+ It can capture multiple network interface simultaneously. 
+ It also shows the decoded packets simultaneously.
